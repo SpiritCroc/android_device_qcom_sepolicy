@@ -3,11 +3,7 @@
 #
 # If you want to use these policies, add a
 # 
-<<<<<<< HEAD
 # include device/qcom/aosp-sepolicy/sepolicy.mk
-=======
-# include device/qcom/sepolicy/sepolicy.mk
->>>>>>> sonyxperiadev/device-qcom-sepolicy/master
 #
 # to your device's BoardConfig. It is highly recommended that in case
 # you have your own BOARD_SEPOLICY_DIRS and BOARD_SEPOLICY_UNION declarations,
